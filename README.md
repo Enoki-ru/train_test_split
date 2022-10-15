@@ -1,4 +1,4 @@
-# train_test_split![proj8-01](https://user-images.githubusercontent.com/110339199/195987587-d7018412-6c4f-493c-9095-9cce4e095ef9.png)
+![proj8-01](https://user-images.githubusercontent.com/110339199/195987587-d7018412-6c4f-493c-9095-9cce4e095ef9.png)
 ![proj8-02](https://user-images.githubusercontent.com/110339199/195987588-d93054bb-755b-45f0-8108-b76f70505e91.png)
 ![proj8-03](https://user-images.githubusercontent.com/110339199/195987589-4b8bc956-abeb-48cf-ba02-ece8109e4add.png)
 ![proj8-04](https://user-images.githubusercontent.com/110339199/195987591-bf3b7e51-e76e-42b9-bd93-6a28f5ec1ea2.png)
